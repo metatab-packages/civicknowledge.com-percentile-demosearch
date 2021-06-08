@@ -10,3 +10,6 @@ _packages
 .DS_Store
 __pycache__/
 cache
+
+data/all_scores.csv
+data/percentiles.csv
